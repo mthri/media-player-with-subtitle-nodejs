@@ -6,8 +6,8 @@ By put the link of your movie and its subtitle file(.srt), you can watch it with
 ----
 ## Dependency
 
->**[node](https://nodejs.org/en/download)**  Version 10.15.2
->**[formidable](https://www.npmjs.com/package/formidable)**  Version 1.2.1
+>**[node](https://nodejs.org/en/download)**  Version 10.15.2<br/>
+>**[formidable](https://www.npmjs.com/package/formidable)**  Version 1.2.1<br/>
 >**[srt-to-vtt](https://www.npmjs.com/package/srt-to-vtt)**  Version 1.1.3
 
 ----
