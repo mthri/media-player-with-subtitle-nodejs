@@ -1,4 +1,4 @@
-# Show your Movie with subtitle 
+# **AM-Player** Shows your Movie with subtitle 
 
 ----
 By put the link of your movie and its subtitle file(.srt), you can watch it with subtitle online.
