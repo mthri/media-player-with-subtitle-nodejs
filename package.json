@@ -1,0 +1,30 @@
+{
+  "name": "am-player",
+  "version": "1.0.0",
+  "description": "with is app we able to show video with subtitle",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "engines": {
+    "node": ">=10.15.2",
+    "npm": ">=5.8.0"
+  },
+  "keywords": [
+    "player"
+  ],
+  "author": "amir motahari",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "srt-to-vtt": "^1.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mthri/media-player-with-subtitle-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mthri/media-player-with-subtitle-nodejs/issues"
+  },
+  "homepage": "https://github.com/mthri/media-player-with-subtitle-nodejs#readme"
+}
